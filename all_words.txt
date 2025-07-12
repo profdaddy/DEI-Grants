@@ -145,7 +145,7 @@ climate smart agriculture
 climate smart forestry
 climate variability
 climate-change
-climatesmart
+climate smart
 colored communities
 colored community
 colored female
@@ -196,8 +196,8 @@ cultural relevance
 cultural segregation
 cultural sensitivity
 culturalactivist
-culturalcompetency
-culturalinjustice
+cultural competency
+cultural injustice
 culturally appropriate
 culturally attuned
 culturally biased
@@ -205,11 +205,11 @@ culturally relevant
 culturally responsive
 culturally sensitive
 culturally sustaining
-culturallysustainable
+culturally sustainable
 culture and ethnicity
 culture and race
 cultures and races
-cultures andethnicities
+cultures and ethnicities
 decolonization
 decolonize
 decolonized
@@ -246,8 +246,8 @@ diverse individual
 diverse status
 diverse statuses
 diverse voices
-diversecommunities
-diverseindividuals
+diverse communities
+diverse individuals
 diversified
 diversify
 diversifying
@@ -327,7 +327,7 @@ ethnic racism
 ethnic segregation
 ethnic voices
 ethnical racism
-ethnicdiversity
+ethnic diversity
 ethnicities and cultures
 ethnicities and races
 ethnicity
@@ -396,11 +396,11 @@ gender transition
 gender transitioning
 gender typical
 gender-affirming care
-genderdiscrimination
-genderdysphoria
+gender discrimination
+gender dysphoria
 gendered
 genders
-genderstereotypes
+gender stereotypes
 geothermal
 ghg emission
 ghg modeling
